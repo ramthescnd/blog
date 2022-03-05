@@ -1,24 +1,38 @@
 ---
 layout: default
-title:  "Repairing a dead PlayStation 1 (SCPH-1002)"
+title: Repairing a dead PlayStation 1 (SCPH-1002)
+published: true
 ---
+So last month I bought a "dead" Playstation 1 on Ebay for around 10€. The Seller described the item as "non-functional". Ordered it, arrived 3 Days later, took a look on it.
 
-Hello!
+I plugged it into to socket, plugged the AV-cable in, and turned it on.
+Nothing, only the green LED lid up, so atleast the power supply wasnt the problem.
 
-So, im currently doing a repair on a Playstation 1. I bought the actual console as untested on ebay for only 10€.
-I mean, who could say no that deal?
+I took this opportunity to get more comfortable in SMD Stuff. The first thing I did was to clean the mainboard with Isopropanol, because I did saw some unidentifiable liquid on the mainboard.
 
-Up on opening it up, I first noticed that all the cover screws were missing. Not that bad, made my job a little bit easier :^).
-Then I saw it, a quite sticky substance was all over the mainboard. Maybe coke, or oil? I'm no expert at that.
-I removed it with isopropyl alcohol, gave that board a good old cleaning, maybe fixing it on that way?
+Who knew? Maybe it was classic coke :D?
 
-Plugged the power supply back in aaannnd nothing, except for a green light. So it surely couldnt be the power supply.
-Then I asked around in forums, reading my way through the internet. Then it came to my head like a lightingstrike..
-A very helpful guy pointed me to the main power fuse on the board (he also provided me with a full diagram of the model, very useful!)
-So I checked it with my multimeter and sure enough it was dead. To be sure I checked all the other fuses on the board, and I was relaxed when all the other ones turned out to be good.
+After that I was ready to meassure some fuses, and as it turns out the main power fuse PS604 was blown. That one provides power from the power supply to mainboard. I searched the internet and bought a replacement fuse for 0,89€. The fuse did arrive 5-6 Days later. Desoldered the old fuse with a pretty heavy amount of flux and the soldered the new one on. 
 
-So I ordered a new one, that would ofcourse fit the voltages..
+It actually was not that difficult:
 
-When they arrive, Im gonna post my progress here. EVEN WITH PICTURES! (because it looks fancy, and to practice my HTML/CSS skills more ;))
+![Replaced_Fuse.png]({{site.baseurl}}/_posts/Replaced_Fuse.png)
 
-So, see ya!
+And is it turns out, the console is fixed! Its alive 🤖!
+
+I will make this console fully retro, I ordered a transparent blue shell. The one that came with the console is super scratched, like I cant even make it look good anymore. I also ordered a popular PSX modchip called the "xStation", and a custom 3D-printed SD-card mount.
+
+I will keep this post updated, and as soon as the parts arrive I will post pictures 😊!
+
+Until then, happy reparing & modding!
+
+
+
+
+
+
+
+
+
+
+
