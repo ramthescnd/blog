@@ -16,7 +16,7 @@ After that I was ready to meassure some fuses, and as it turns out the main powe
 
 It actually was not that difficult:
 
-![Replaced_Fuse.png]({{site.baseurl}}/_posts/Replaced_Fuse.png)
+![Replaced_Fuse.png]({{site.url}}/_posts/Replaced_Fuse.png)
 
 And is it turns out, the console is fixed! Its alive 🤖!
 
@@ -25,14 +25,3 @@ I will make this console fully retro, I ordered a transparent blue shell. The on
 I will keep this post updated, and as soon as the parts arrive I will post pictures 😊!
 
 Until then, happy reparing & modding!
-
-
-
-
-
-
-
-
-
-
-
