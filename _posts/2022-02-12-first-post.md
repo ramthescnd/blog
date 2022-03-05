@@ -16,7 +16,7 @@ After that I was ready to meassure some fuses, and as it turns out the main powe
 
 It actually was not that difficult:
 
-![Replaced_Fuse.png](/_posts/Replaced_Fuse.png)
+![Replaced_Fuse.png](/media/Replaced_Fuse.png)
 
 And is it turns out, the console is fixed! Its alive 🤖!
 
