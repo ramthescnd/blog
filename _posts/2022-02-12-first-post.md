@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Repairing a dead PlayStation 1 (SCPH-1002)
+title: Repairing & Modding a dead PlayStation (SCPH-1002)
 published: true
 ---
 So last month I bought a "dead" Playstation 1 on Ebay for around 10€. The Seller described the item as "non-functional". Ordered it, arrived 3 Days later, took a look on it.
@@ -24,4 +24,4 @@ I will make this console fully retro, I ordered a transparent blue shell. The on
 
 I will keep this post updated, and as soon as the parts arrive I will post pictures 😊!
 
-Until then, happy reparing & modding!
+Until then, happy repairing & modding!
