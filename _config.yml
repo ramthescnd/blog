@@ -18,22 +18,22 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: kai´s blog!
-description: >- # this means to ignore newlines until "baseurl:"
+title: kai's blog!
+author: Kai Wittenburg
+description: my personal repair blog. # this means to ignore newlines until "baseurl:"
 domain: ramthescnd.github.io
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://kais-corner.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ramthesecond
 github_username:  ramthescnd
-
 # Build settings
-theme: minima
+#theme: minima
+
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
 
-minima: 
-    skin: dark
-
+remote_theme: songzivong/dark-minima
 
 # Exclude from processing.
 # The following items will not be processed, by default.
