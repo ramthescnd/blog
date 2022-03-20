@@ -26,8 +26,6 @@ I will keep this post updated, and as soon as the parts arrive I will post pictu
 
 <u>20.03.2022 - The custom shell arrived </u>
 
-The shell just arrivied, and just look at it:
-
 ![Replaced_Fuse]({{ "/media/psx_shell.png" | absolute_url }})
 
 Its a damn beauty 😍!
