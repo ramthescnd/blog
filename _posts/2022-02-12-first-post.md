@@ -3,6 +3,9 @@ layout: default
 title: Repairing & Modding a dead PlayStation (SCPH-1002)
 published: true
 ---
+## Repairing & Modding a dead PlayStation (SCPH-1002)
+
+
 So last month I bought a "dead" Playstation 1 on Ebay for around 10€. The Seller described the item as "non-functional". Ordered it, arrived 3 Days later, took a look on it.
 
 I plugged it into to socket, plugged the AV-cable in, and turned it on.
