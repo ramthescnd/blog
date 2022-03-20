@@ -29,7 +29,7 @@ I will keep this post updated, and as soon as the parts arrive I will post pictu
 
 The shell just arrivied, and just look at it:
 
-![PSX Shell]({{ "/media/psx_shell.png" | absolute_url }})
+<img src="{{site.baseurl | prepend: site.url}}media/psx_shell.jpg" alt="Shell" />
 
 Its a damn beauty 😍!
 
