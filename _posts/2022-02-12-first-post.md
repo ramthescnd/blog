@@ -21,7 +21,7 @@ It actually was not that difficult:
 
 ![Replaced_Fuse]({{ "/media/Replaced_Fuse.png" | absolute_url }})
 
-And is it turns out, the console is fixed! Its alive 🤖!
+And as it turns out, the console is fixed! Its alive 🤖!
 
 I will make this console fully retro, I ordered a transparent blue shell. The one that came with the console is super scratched, like I cant even make it look good anymore. I also ordered a popular PSX modchip called the "xStation", and a custom 3D-printed SD-card mount.
 
@@ -35,7 +35,7 @@ Its a damn beauty 😍!
 
 Its old-stock from a trusted ebay seller, but really dont ask me how much this thing costed me.  
 I just could not resist 😬.
-So, Im still waiting for the xStation and the 3D-printed SD-mount. 
+So, Im still waiting for the xStation and the 3D-printed SD-mount (Im still waiting for it as of 07.04.2022!) 
 
 You know how things go...
 
