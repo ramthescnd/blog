@@ -33,10 +33,6 @@ I will keep this post updated, and as soon as the parts arrive I will post pictu
 
 It's a damn beauty 😍!
 
-I bought some old-stock from a trusted ebay seller, but really don't ask me how much this thing costed me.  
-I just could not resist 😬.
-So, Im still waiting for the xStation and the 3D-printed SD-mount for the ODE. (Im still waiting for it as of 07.04.2022, but at least I finally got a tracking number..) 
-
-You know how things go...
+I bought some old-stock from a trusted ebay seller, but really don't ask me how much this thing costed me 😬.  I'm still waiting (as of 07.04.2022) for the xStation and the 3D-printed SD-mount for the ODE, but at least I finally got tracking number.  
 
 Until then, happy repairing & modding!
