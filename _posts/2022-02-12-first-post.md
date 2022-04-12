@@ -23,7 +23,8 @@ As you can see, It actually wasn't that difficult:
 
 And the console is fixed, it's alive 🤖.
 
-I will make this console fully retro, I ordered a transparent blue shell. The one that came with the console is super scratched, like I couldn't even make it look good anymore. I also ordered a popular PSX modchip called the "xStation", and a custom 3D-printed SD-card mount.
+I will make this console fully retro, I ordered a transparent blue shell.  
+The one that came with the console is super scratched, like I couldn't even make it look good anymore. I also ordered a popular PSX modchip called the "xStation", and a custom 3D-printed SD-card mount.
 
 I will keep this post updated, and as soon as the parts arrive I will post pictures 😊!
 
@@ -33,6 +34,7 @@ I will keep this post updated, and as soon as the parts arrive I will post pictu
 
 It's a damn beauty 😍!
 
-I bought some old-stock from a trusted ebay seller, but really don't ask me how much this thing costed me 😬.  I'm still waiting (as of 07.04.2022) for the xStation and the 3D-printed SD-mount for the ODE, but at least I finally got tracking number.  
+I bought some old-stock from a trusted ebay seller, but really don't ask me how much this thing costed me 😬.    
+I'm still waiting (as of 07.04.2022) for the xStation and the 3D-printed SD-mount for the ODE, but at least I finally got tracking number.  
 
 Until then, happy repairing & modding!
