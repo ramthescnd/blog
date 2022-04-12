@@ -15,7 +15,8 @@ I took this opportunity to get more comfortable in SMD Stuff. The first thing I 
 
 Who knew, maybe it was classic coke 🤷‍♂️?
 
-After that I was ready to measure some fuses, and as it turns out the main power fuse labeled "PS604" was blown. That one provides power from the power supply to mainboard. I searched the internet and bought a replacement fuse for 0,89€, what a steal! The fuse did arrive 5-6 Days later. I desoldered the old fuse with a pretty heavy amount of flux and the soldered the new one on. 
+After that I was ready to measure some fuses, and as it turns out the main power fuse labeled "PS604" was blown. That one provides power from the power supply to mainboard. I searched the internet and bought a replacement fuse for 0,89€, what a steal! The fuse did arrive 5-6 Days later.   
+I desoldered the old fuse with a pretty heavy amount of flux and the soldered the new one on. 
 
 As you can see, It actually wasn't that difficult:
 
