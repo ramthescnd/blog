@@ -21,9 +21,10 @@ As you can see, It actually wasn't that difficult:
 
 ![Replaced_Fuse]({{ "/media/Replaced_Fuse.png" | absolute_url }})
 
-And the console is fixed, it's alive 🤖.
+It’s alive 🤖👍.
 
-I will make this console fully retro, I ordered a transparent blue shell. The one that came with the console is super scratched, like I couldn't even make it look good anymore. I also ordered a popular PSX modchip called the "xStation", and a custom 3D-printed SD-card mount.
+I will make this console fully retro, I ordered a transparent blue shell. The one that came with the console is super scratched, like I couldn't even make it look good anymore.  
+I also ordered a popular PSX modchip called the "xStation", and a custom 3D-printed <br>SD-card mount.
 
 I will keep this post updated, and as soon as the parts arrive I will post pictures 😊!
 
@@ -33,10 +34,10 @@ I will keep this post updated, and as soon as the parts arrive I will post pictu
 
 It's a damn beauty 😍!
 
-I bought some old-stock from a trusted ebay seller, but really don't ask me how much this thing costed me.  
-I just could not resist 😬.
-So, Im still waiting for the xStation and the 3D-printed SD-mount for the ODE. (Im still waiting for it as of 07.04.2022, but at least I finally got a tracking number..) 
-
-You know how things go...
-
+I bought some old-stock from a trusted ebay seller, but really don't ask me how much this thing costed me. I just couldn't resist 😬.  I’m still waiting (as of 07.04.2022) for the xStation and the 3D-printed SD-mount for the ODE, but at least I finally got tracking number.  
+<br>
+As soon as the other parts arrive I will continue this post 😉.
+<br>
+<br>
+<br>
 Until then, happy repairing & modding!
