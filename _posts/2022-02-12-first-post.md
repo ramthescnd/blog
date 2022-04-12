@@ -33,8 +33,7 @@ I also ordered a popular PSX modchip called the "xStation", and a custom 3D-prin
 
 It's a damn beauty 😍!
 
-I bought some old-stock from a trusted ebay seller, but really don't ask me how much this thing costed me 😬.    
-I'm still waiting (as of 07.04.2022) for the xStation and the 3D-printed SD-mount for the ODE, but at least I finally got tracking number.  
+I bought some old-stock from a trusted ebay seller, but really don't ask me how much this thing costed me 😬.  I'm still waiting (as of 07.04.2022) for the xStation and the 3D-printed SD-mount for the ODE, but at least I finally got tracking number.  
 
 As soon as the other parts arrive I will continue this post 😉.
 
