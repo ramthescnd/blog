@@ -16,7 +16,7 @@ The first thing I did was to clean the mainboard with Isopropanol, because I did
 
 Who knew, maybe it was classic coke 🤷‍♂️?
 
-After that I was ready to measure some fuses, and as it turns out the main power fuse labeled "PS604" was blown. That one provides power from the power supply to mainboard. I searched the internet and bought a replacement fuse for 0,89€, what a steal! The fuse did arrive 5-6 Days later.   I desoldered the old fuse with a pretty heavy amount of flux and the soldered the new one on. 
+After that I was ready to measure some fuses, and as it turns out the main power fuse labeled "PS604" was blown. That one provides power from the power supply to mainboard. I searched the internet and bought a replacement fuse for 0,89€, what a steal! The fuse did arrive 5-6 Days later.    I desoldered the old fuse with a pretty heavy amount of flux and the soldered the new one on. 
 
 As you can see, It actually wasn't that difficult:
 
@@ -25,8 +25,6 @@ As you can see, It actually wasn't that difficult:
 It’s alive 🤖👍.
 
 I will make this console fully retro, I ordered a transparent blue shell. The one that came with the console is super scratched, like I couldn't even make it look good anymore.  I also ordered a popular PSX modchip called the "xStation", and a custom 3D-printed SD-card mount.
-
-I will keep this post updated, and as soon as the parts arrive I will post pictures 😊!
 
 <u>20.03.2022 - The custom shell arrived </u>
 
