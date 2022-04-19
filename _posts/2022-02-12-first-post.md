@@ -1,10 +1,8 @@
 ---
-layout: default
-title: Repairing & Modding a dead PlayStation (SCPH-1002)
+layout: post
+title: Repairing & Modding a dead PlayStation 1
 published: true
 ---
-## Repairing & Modding a dead PlayStation (SCPH-1002)
-
 
 So last month I bought a "dead" Playstation 1 (PSX) on Ebay for around 10€. The Seller described the item as "non-functional". Ordered it, arrived 3 Days later, took a look on it.
 
@@ -35,7 +33,6 @@ It's a damn beauty 😍!
 I bought some old-stock from a trusted ebay seller, but really don't ask me how much this thing costed me. I just couldn't resist 😬.  I’m still waiting (as of 07.04.2022) for the xStation and the 3D-printed SD-mount for the ODE, but at least I finally got tracking number.  
 <br>
 As soon as the other parts arrive I will continue this post 😉!
-<br>
 <br>
 <br>
 Until then, happy repairing & modding!
