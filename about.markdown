@@ -7,7 +7,7 @@ permalink: /about/
 <ins> Hello Stranger!</ins>
 <br>
 <br>
-My name is Kai Wittenburg, 21 years old and probably your average nerd. I really like to repair electronic devices, mostly laptops, smartphones, consoles & sometimes cameras. I also soft or hardmod them.Every device that I own is in some way modified, isn't that awesome?  I'm equipped with the needed tools such as an multimeter, a microscope or my awesome soldering station.  
+My name is Kai Wittenburg, 21 years old and probably your average nerd. I really like to repair electronic devices, mostly laptops, smartphones, consoles & sometimes cameras. I also soft or hardmod them. Every device that I own is in some way modified, isn't that awesome?  I'm equipped with the needed tools such as an multimeter, a microscope or my awesome soldering station.  
 While I'm repairing, I document my progress on this little blog of mine.
 <br>
 <br>
