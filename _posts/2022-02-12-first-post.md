@@ -30,7 +30,7 @@ I will make this console fully retro, I ordered a transparent blue shell. The on
 
 It's a damn beauty 😍!
 
-I bought some old-stock from a trusted ebay seller, but really don't ask me how much this thing costed me. I just couldn't resist 😬.  I’m still waiting (as of 07.04.2022) for the xStation and the 3D-printed SD-mount for the ODE, but at least I finally got tracking number.  
+I bought some old-stock from a trusted ebay seller, but really don't ask me how much this thing costed me. I just couldn't resist 😬.  I’m still waiting (as of 07.04.2022) for the xStation and the 3D-printed SD-mount for the ODE, but at least I finally got a tracking number.  
 <br>
 As soon as the other parts arrive I will continue this post 😉!
 <br>
