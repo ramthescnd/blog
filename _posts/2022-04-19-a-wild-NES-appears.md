@@ -18,6 +18,6 @@ b.) the main storage unit is based in Ukraine, and we all know what tragedy is h
 
 Maybe I'm gonna buy an EVERDRIVE one day, but not now. What I'm going to buy is a chemical substance called "retr0bright", which is a mixture of hydrogen peroxide and glycerin. As you can see the NES has a yellow chime on it's case, after 36 years that is totally understandable, but we are going to get rid of it 🧫👨‍🔬. I know my grades in chemistry weren't that good, but there is always space for improvement!
 
-So when I got the time (and chemical substances) I will continue this post! The next thing Im gonna work more on the PSX, which said above. Im just waiting for the damn parts, but in the end it will be worth it.
+So when I got the time (and chemical substances) I will continue this post.
 
 Until then!

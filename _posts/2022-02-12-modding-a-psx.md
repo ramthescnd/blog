@@ -30,9 +30,39 @@ I will make this console fully retro, I ordered a transparent blue shell. The on
 
 It's a damn beauty 😍!
 
-I bought some old-stock from a trusted ebay seller, but really don't ask me how much this thing costed me. I just couldn't resist 😬.  I’m still waiting (as of 07.04.2022) for the xStation and the 3D-printed SD-mount for the ODE, but at least I finally got a tracking number.  
+I bought some old-stock from a trusted ebay seller, but really don't ask me how much this thing costed me. I just couldn't resist 😬.  
+
+<u>24.04.2022 - The xStation arrived </u>
+
+You read that right folks, it's finally here!
+The installation was fairly easy (for me at least), the xStation came in a nice environment-friendly packaging. Inside were the 2 QCB's for each console revision (550X & 100X). I opened the console up, but I had to remove the metal-shielding that was covering most of the IC's that I had to solder to.
 <br>
-As soon as the other parts arrive I will continue this post 😉!
 <br>
+The first part was to lift some Pins on the CXD2545Q (digital signal processor that serves the CD-drive), which looks really complicated. For that I ordered some tiny tips for soldering iron.
+I heated up the pads that held pins and lifted them up with a pair of tweezers.
+
+![Lifted_Pins]({{ "/media/lifted_pins.png" | absolute_url }})
+
+As you can see I insulated the pins with electrical tape, looks pretty clean so I far I would say.
+
+Now that the "hardest" was done I moved over to solder the corresponding QSB to the mainboard. I pre-tined my iron, put flux on the board and started to solder.
+Honestly this was a breeze to install, I felt like flying over the VIA-points with my iron 🧚.
+
+![Soldered_QSB]({{ "/media/qsb.png" | absolute_url }})
+
+Only one wire is missing 😅.By the way I also had to remove a small capacitor that was sitting right next to the "B" that you see on the mainboard, sadly I don't have pictures of that.
+
+![Soldered_QSB_with_wire]({{ "/media/qsb_wired.png" | absolute_url }})
+
+
+Now that the soldering part is done,I just need to secure the flexcable and put the actual xStation onto the socket where the CD-drive was sitting before.
+
+![pure_love]({{ "/media/pure_love.png" | absolute_url }})
+
+You might have noticed that the SD-card mount is still not here.  Well that's true, Im still waiting for it. Maybe I actually got scammed out of 8€. The console still looks sleek without it ✨.
+
+![menu]({{ "/media/xstation_menu.png" | absolute_url }})
+
+And there you go!  
 <br>
-Until then, happy repairing & modding!
+From an old console I bought off ebay for a mere 10€ to a fully functional retro-modded Playstation 1. I love this thing so much 😍.

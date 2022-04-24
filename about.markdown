@@ -14,12 +14,10 @@ While I'm repairing, I document my progress on this little blog of mine.
 Why throw everything away when you can just repair it for a mere amount of money?
 <br>
 <br>
-** A COOL PICTURE WILL FOLLOW SOON **
+![workspace]({{ "/media/workspace.png" | absolute_url }})
 <br>
 <br>
 If you want to keep our environment clean & safe then support your Right to Repair !
-<br>
-<br>
 <br>
 <br>
 <a href="https://ifixit.com"><img border=0 alt="ifixit-logo" src="/blog/media/ifixit_logo.png" width="100" height="100"></a>­
