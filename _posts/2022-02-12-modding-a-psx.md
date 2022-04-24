@@ -18,7 +18,7 @@ After that I was ready to measure some fuses, and as it turns out the main power
 
 As you can see, It actually wasn't that difficult:
 
-![Replaced_Fuse]({{ "/media/Replaced_Fuse.png" | absolute_url }})
+![Replaced_Fuse]({{ "https://i.postimg.cc/zfSjQNTm/Replaced-Fuse.png" | absolute_url }})
 
 It’s alive 🤖👍.
 
@@ -26,7 +26,7 @@ I will make this console fully retro, I ordered a transparent blue shell. The on
 
 <u>20.03.2022 - The custom shell arrived </u>
 
-![Replaced_Fuse]({{ "/media/psx_shell.png" | absolute_url }})
+![Custom_Shell]({{ "https://i.postimg.cc/SskZQRmN/psx-shell.png" | absolute_url }})
 
 It's a damn beauty 😍!
 
@@ -41,27 +41,27 @@ The installation was fairly easy (for me at least), the xStation came in a nice 
 The first part was to lift some Pins on the CXD2545Q (digital signal processor that serves the CD-drive), which looks really complicated. For that I ordered some tiny tips for soldering iron.
 I heated up the pads that held pins and lifted them up with a pair of tweezers.
 
-![Lifted_Pins]({{ "/media/lifted_pins.png" | absolute_url }})
+![Lifted_Pins]({{ "https://i.postimg.cc/j2GP53yQ/lifted-pins.png" | absolute_url }})
 
 As you can see I insulated the pins with electrical tape, looks pretty clean so I far I would say.
 
 Now that the "hardest" was done I moved over to solder the corresponding QSB to the mainboard. I pre-tined my iron, put flux on the board and started to solder.
 Honestly this was a breeze to install, I felt like flying over the VIA-points with my iron 🧚.
 
-![Soldered_QSB]({{ "/media/qsb.png" | absolute_url }})
+![Soldered_QSB]({{ "https://i.postimg.cc/VLCXT1c7/qsb.png" | absolute_url }})
 
 Only one wire is missing 😅.By the way I also had to remove a small capacitor that was sitting right next to the "B" that you see on the mainboard, sadly I don't have pictures of that.
 
-![Soldered_QSB_with_wire]({{ "/media/qsb_wired.png" | absolute_url }})
+![Soldered_QSB_with_wire]({{ "https://i.postimg.cc/c1jQXCPg/qsb-wired.png }})
 
 
 Now that the soldering part is done,I just need to secure the flexcable and put the actual xStation onto the socket where the CD-drive was sitting before.
 
-![pure_love]({{ "/media/pure_love.png" | absolute_url }})
+![pure_love]({{ "https://i.postimg.cc/B67xWn6z/pure-love.png" | absolute_url }})
 
 You might have noticed that the SD-card mount is still not here.  Well that's true, Im still waiting for it. Maybe I actually got scammed out of 8€. The console still looks sleek without it ✨.
 
-![menu]({{ "/media/xstation_menu.png" | absolute_url }})
+![menu]({{ "https://i.postimg.cc/wjYDYPq9/xstation-menu.png" | absolute_url }})
 
 And there you go!  
 <br>

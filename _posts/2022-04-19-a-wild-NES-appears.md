@@ -9,7 +9,7 @@ I think it's a nice project to work on while I'm waiting for the xStation for my
 
 <ins>Here's a picture of the NES:</ins>
 
-![NES]({{ "/media/nes.png" | absolute_url }})
+![NES]({{ "https://i.postimg.cc/9MbLD2fP/nes.png" | absolute_url }})
 
 I thought about buying one of these EVERDRIVES, and in fact there exists one for the NES. On the market are currently the "N8" and the "N8 Pro" available. The two reason why I am not (and also can't) buying these is because:
 

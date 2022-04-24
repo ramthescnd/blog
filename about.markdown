@@ -14,17 +14,17 @@ While I'm repairing, I document my progress on this little blog of mine.
 Why throw everything away when you can just repair it for a mere amount of money?
 <br>
 <br>
-![workspace]({{ "/media/workspace.png" | absolute_url }})
+![workspace]({{ "https://i.postimg.cc/vBZWSVQ9/workspace.png" | absolute_url }})
 <br>
 <br>
 If you want to keep our environment clean & safe then support your Right to Repair !
 <br>
 <br>
-<a href="https://ifixit.com"><img border=0 alt="ifixit-logo" src="/blog/media/ifixit_logo.png" width="100" height="100"></a>­
+<a href="https://ifixit.com"><img border=0 alt="ifixit-logo" src="https://i.postimg.cc/nzJWsTGx/ifixit-logo.png" width="100" height="100"></a>­
 <a href="https://repair.eu/">
-<img border=0 alt="r2r-logo" src="/blog/media/r2r.png" width="100" height="100"></a>
+<img border=0 alt="r2r-logo" src="https://i.postimg.cc/MHs3Fw2Z/r2r.png" width="100" height="100"></a>
 <a href="https://www.repair.org/stand-up/">
-<img border=0 alt="r2r-logo" src="/blog/media/rdo.png" width="100" height="100"></a>
+<img border=0 alt="r2r-logo" src="https://i.postimg.cc/mZVnDYzx/rdo.jpg" width="100" height="100"></a>
 
 <style>
 body
