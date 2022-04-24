@@ -52,7 +52,7 @@ Honestly this was a breeze to install, I felt like flying over the VIA-points wi
 
 Only one wire is missing 😅.By the way I also had to remove a small capacitor that was sitting right next to the "B" that you see on the mainboard, sadly I don't have pictures of that.
 
-![Soldered_QSB_with_wire]({{ "https://i.postimg.cc/c1jQXCPg/qsb-wired.png }})
+![Soldered_QSB_with_wire]({{ "https://i.postimg.cc/c1jQXCPg/qsb-wired.png" }})
 
 
 Now that the soldering part is done,I just need to secure the flexcable and put the actual xStation onto the socket where the CD-drive was sitting before.

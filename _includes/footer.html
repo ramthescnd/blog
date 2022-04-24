@@ -1,26 +1,59 @@
 <footer class="site-footer h-card">
+  <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
-
   <div class="wrapper">
 
     <div class="footer-col-wrapper">
-      <div class="footer-col one-half">       
-
-    <ul class="contact-list">
-    <li class="p-name">
-      {%- if site.email -%}
-      <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-      {%- endif -%}
-      {%- if site.linkedin_username -%}
-      <li><a href="https://www.linkedin.com/in/{{ site.linkedin_username }}">
-      <svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg> <span class="username">{{site.author}}</span></a></li>
-       {%- else -%}
-       {{ site.author | escape }}
-       {%- endif -%}
-      </ul>
-      <div class="social-links">
-        {%- include social.html -%}
+      <div class="footer-col-one-half">
+        <ul class="contact-list">
+          <li class="p-name"> 
+            {%- if site.author -%}
+              {{ site.author | escape }}
+            {%- endif -%}
+            </li>
+            {%- if site.email -%}
+            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            {%- endif -%}
+        </ul>
       </div>
-    </div>
+
+      <div class="footer-col-one-half">
+        <a class="github" style="text-decoration:none" href="https://github.com/ramthescnd style=" target="_blank">
+          <ion-icon name="logo-github"></ion-icon>
+        </a>   
+      <a class="twitter" style="text-decoration:none" href="https://twitter.com/ramthesecond style=" target="_blank">
+        <ion-icon name="logo-twitter"></ion-icon>
+      </a>    
+      <a class="instagram" style="text-decoration:none" href="https://www.instagram.com/zweifelsfrei.kai/ style=" target="_blank">
+        <ion-icon name="logo-instagram"></ion-icon>
+      </a>
+      </div>
+  </div>
+
+  <style>
+       
+    .github {
+    
+
+    transition: color 0.2s;
+    text-decoration: none;
+
+  }
+
+    .twitter {
+    
+      transition: color 0.2s;
+      text-decoration: none;
+
+  }
+
+    .instagram {
+    
+      transition: color 0.2s;
+      text-decoration: none;
+
+    }
+    
+  </style>
 
 </footer>
