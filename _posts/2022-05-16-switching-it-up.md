@@ -31,7 +31,7 @@ Well a modded Switch is awesome, here a couple of reasons:
 * Install Homebrew
 * Custom Themes
 
-Yes, you can also install "free games", but Im strongly advising <ins>not</ins> to do so. You are hurting hard working game developers, and you are also putting your Console at a huge risk of getting banned.
+Yes, you can also install "free games", but Im strongly advising <ins>not</ins> to do so. You are hurting hard working game developers, and you are also putting your console at a huge risk of getting banned.
   
 <ins>Remember: There is no 100% that you aren't going to get banned.</ins>
 
