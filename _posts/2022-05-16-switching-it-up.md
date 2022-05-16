@@ -41,7 +41,7 @@ Yes, you can also install "free games", but Im strongly advising <ins>not</ins> 
 <br>
 <br>
 ![Switch]({{ "https://i.postimg.cc/d37vsmSm/PXL-20220516-211646051.jpg" | absolute_url }})  
-*The custom firmware "Atmosphère"💫.*
+*The custom firmware "Atmosphère"💫, with a theme installed*.
 <br>
 <br>
 <br>
