@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A wild NES appears! 
+title: A wild NES appears! - an Update
 published: true
 ---
 
@@ -20,4 +20,12 @@ Maybe I'm gonna buy an EVERDRIVE one day, but not now. What I'm going to buy is 
 
 So when I got the time (and chemical substances) I will continue this post.
 
-Until then!
+<u>Update:</u> 
+
+As some of you may have noticed, its finally summer outside ☀️!
+Don't think that I forgot this project, I just waited for the best time to do it 😉. Hydrogen peroxide only bleaches something when you give it a little "push", and in this case that "push" needs to be either a blacklight (which I don't have access to and I'm probably not going to buy it.) or the sunlight ☀️.  
+I ordered hydrogen peroxide from Amazon (also gloves and some nice protective glasses) today  and  when it's ready  
+I'm finally going to give that poor NES a good old rub!
+<br>
+<br>
+So, until then (hopefully soon)!
